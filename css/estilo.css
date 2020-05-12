@@ -1,0 +1,30 @@
+body{
+  background-image:url(https://images.pexels.com/photos/374631/pexels-photo-374631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: auto 100vh;
+  height: auto 100vh;
+  }
+  
+  a{
+   text-decoration:none; 
+   color:white;
+   font-size:36px;
+  }
+  a:hover{
+    text-decoration:underline;
+  }
+  .menu li{
+    list-style:none;
+  }
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  .Subtitulo,
+  .site-Title{
+    margin-top:70px;
+    text-align:center;
+    font-size:40px;
+    color:black;
+    
+  }
+  
